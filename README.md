@@ -1,3 +1,6 @@
-#Repositorio do desafio Proj Git/HUb DIO
+# Ddesafio Proj Git/HUb DIO
 
-Desafio Projeto Git/Github
+Repositorio criado para o Desafio Projeto Git/Github
+
+## Links Uteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
