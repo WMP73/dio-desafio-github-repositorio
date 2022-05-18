@@ -1,4 +1,4 @@
-# Ddesafio Proj Git/HUb DIO
+# Desafio Proj Git/HUb DIO
 
 Repositorio criado para o Desafio Projeto Git/Github
 
